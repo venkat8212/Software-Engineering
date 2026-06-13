@@ -1,1 +1,1 @@
-project developed by team A
+project developed by team B
